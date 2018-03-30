@@ -194,12 +194,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Cindy_Char_NM001_Cidney_01_002
-    second: {fileID: 2100000, guid: c1adf80258f9ee140a65de9ad06a7daf, type: 2}
+    second: {fileID: 2100000, guid: eaaf5b9860e7cfa41ac6a5ae4e9f6907, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Cindy_Char_NM001_Cidney_02_002
-    second: {fileID: 2100000, guid: 06b958475b91e0848ac5834f3921a345, type: 2}
+    second: {fileID: 2100000, guid: 942af5ee075d88a45b69f7e90f0253f2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
