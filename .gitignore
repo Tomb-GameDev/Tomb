@@ -5,6 +5,7 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 /Assets/Plugins/
+*.fbm
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -33,3 +34,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+ProjectSettings/ProjectVersion.txt
