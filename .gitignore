@@ -34,3 +34,4 @@ sysinfo.txt
 *.apk
 *.unitypackage
 ProjectSettings/ProjectVersion.txt
+Assets/Plugins.meta
